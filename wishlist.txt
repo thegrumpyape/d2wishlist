@@ -1,0 +1,20 @@
+// Waking Vigil
+
+//Vouchsafe
+dimwishlist:item=355922321&perks=776531651,2048641572
+
+//Twilight Oath
+dimwishlist:item=1874424704&perks=47981717,957782887
+
+//Retold Tale
+dimwishlist:item=871900124&perks=3161816588,957782887
+dimwishlist:item=871900124&perks=776531651,2048641572
+
+// Tigerspite
+dimwishlist:item=2465372924&perks=1820235745,3891536761
+
+//Sleepless
+dimwishlist:item=2140635451&perks=981914802,3796465595,3300816228,1439600632
+
+//Abide The Return
+dimwishlist:item=250721843&perks=938542991,269888150,1749209109,243981275
